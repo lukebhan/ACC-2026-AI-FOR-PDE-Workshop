@@ -13,7 +13,7 @@ smart_punctuation = true
 footer_text = "Website built using [Zola](https://www.getzola.org) and the [Academic Workshop](http://github.com/aterenin/academic-workshop/) theme."
 title = {tagline = "", title = "AI-PDE Workshop: ACC 2026", subtitles = ["AI for Modeling, Control, and Optimization of Partial Differential Equations"]}
 banner = {extension = "svg", size = "fixed", fade = true}
-buttons = [{name = "Homepage", url = ""}]
+buttons = [{name = "Homepage", url = "/"}]
 image = {resize = 400, ext = '.jpg'}
 list_page_limit = 10
 header_pages = [{name = "Home", url = "/#home"},{name = "Design", url = "/#design"}]
