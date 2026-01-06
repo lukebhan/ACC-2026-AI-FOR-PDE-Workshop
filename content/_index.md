@@ -83,8 +83,6 @@ Traditional PDE modeling, control, and optimization methods—rooted in analytic
 
 # Schedule
 
-# Schedule
-
 | Time | Speaker | Event |
 | ---- | ------- | ----- |
 | 8:30am&nbsp;-&nbsp;8:45am | Organizers | Welcoming remarks|
