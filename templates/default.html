@@ -11,18 +11,23 @@
 
         <link rel="stylesheet" href="{{ get_url(path = 'main.css') | safe }}">
 
-        {% set icon = get_image_metadata(path = 'apple-touch-icon.png', allow_missing = true) %}
-        {% if icon %}
-        <link rel="shortcut icon" type="image/x-icon" href="{{ get_url(path = 'favicon.ico') }}">
-        <link rel="apple-touch-icon" href="{{ get_url(path = 'apple-touch-icon.png') }}" type="image/png">
-        {% endif %}
+        <link rel="shortcut icon"
+              type="image/x-icon"
+              href="{{ get_url(path = 'favicon.ico', allow_missing = true) }}">
+
+        <link rel="apple-touch-icon"
+              sizes="180x180"
+              href="{{ get_url(path = 'apple-touch-icon.png', allow_missing = true) }}"
+              type="image/png">
 
         <title>{{ this.title }}</title>
 
         {{ seo::seo(page = this) }}
 
         {% block head_includes %}{% endblock head_includes %}
-        {% if this.extra.head_includes %}{{ this.extra.head_includes | safe }}{% endif %}
+        {% if this.extra.head_includes %}
+            {{ this.extra.head_includes | safe }}
+        {% endif %}
     </head>
 
     <body>
@@ -33,3 +38,4 @@
     </body>
 
 </html>
+
