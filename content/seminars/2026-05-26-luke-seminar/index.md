@@ -7,7 +7,7 @@ author_url = "https://lukebhan.com/"
 time = "11:30 AM"
 buttons = [{name = "Slides", url=""}]
 highlight = true
-image = "organizers/luke.jpeg"
+image = "organizers/lukePortrait.jpeg"
 +++
 
 ### Abstract

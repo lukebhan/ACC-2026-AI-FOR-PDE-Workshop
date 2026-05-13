@@ -38,7 +38,7 @@ Traditional PDE modeling, control, and optimization methods—rooted in analytic
         "speakers/jan.jpg",
         "speakers/alex.png",
 				"speakers/beckers.jpg",
-				"organizers/luke.jpeg"
+				"organizers/lukePortrait.jpeg"
     ],
     narrow = true) }}
 
