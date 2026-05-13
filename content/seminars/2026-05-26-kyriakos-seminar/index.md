@@ -12,7 +12,9 @@ image = "speakers/kyriakos.jpg"
 
 ### Abstract
 
-To be announced. 
+In this talk, we present a trajectory-informed machine learning framework for solving infinite-horizon optimal control problems in uncertain dynamical systems, and compare it with traditional physics-informed machine learning approaches. While physics-informed neural networks (PINNs) typically rely on pointwise enforcement of governing equations, the proposed methodology is formulated using system trajectories, enabling learning directly from observed dynamics and eliminating the need for explicit knowledge of the system's drift term.
+
+We further introduce a finite-horizon optimal control formulation that guarantees a unique solution to the associated Hamilton–Jacobi–Bellman (HJB) equation, overcoming key challenges faced by conventional PINN-based methods in infinite-horizon settings. A rigorous mathematical analysis is provided to show that the finite-horizon solution converges uniformly to the infinite-horizon HJB solution as the horizon becomes sufficiently large. The talk will conclude with numerical examples illustrating the robustness and effectiveness of the trajectory-informed framework for uncertain nonlinear control systems.
 
 ### Biography
 

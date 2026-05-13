@@ -1,5 +1,5 @@
 +++
-title = "Neural Operators for PDEs That Stabilize PDEs"
+title = "Adaptive and Neural Operator Control of Nonlinear Volterra Hyperbolic PDEs"
 [extra]
 author = "Miroslav Krstić"
 institution = "University of California, San Diego"
@@ -12,7 +12,7 @@ image = "speakers/krstic.jpg"
 
 ### Abstract
 
-To be announced. 
+Adaptive control learns the plant online; neural-operator control learns the controller offline. We bring the two together for a class of nonlinear hyperbolic PDEs whose dynamics are governed by an unknown Volterra series of arbitrarily many kernels. An observer-based passive identifier learns a truncation of this series online. The infinite-dimensional map that synthesizes the backstepping kernels from the parameter estimates — a cascade of PDEs on simplex domains of increasing dimension, prohibitive to solve in real time — is approximated once, offline, by a neural operator. The closed loop then carries two learning processes in series: online learning of the plant feeds an offline-learned PDE solver, whose output is the online-learned controller. We prove closed-loop stability and asymptotic regulation of the plant state, observer state, and input, on a basin that recovers the exact-kernel basin as the neural-operator accuracy improves.
 
 ### Biography
 

@@ -86,14 +86,14 @@ Traditional PDE modeling, control, and optimization methods—rooted in analytic
 | Time | Speaker | Event |
 | ---- | ------- | ----- |
 | 8:45am&nbsp;-&nbsp;9:00am | Organizers | Welcoming remarks|
-| 9:00am&nbsp;-&nbsp;9:45am | Miroslav Krstić | [Neural Operators for PDEs That Stabilize PDEs](/seminars/krstic-seminar) |
+| 9:00am&nbsp;-&nbsp;9:45am | Miroslav Krstić | [Adaptive and Neural Operator Control of Nonlinear Volterra Hyperbolic PDEs](/seminars/krstic-seminar) |
 | 9:45am&nbsp;-&nbsp;10:30am | Thomas Beckers | [Energy-based learning of PDEs with Uncertainty Quantification](/seminars/beckers-seminar) |
 | 10:30am&nbsp;-&nbsp;11:00am | Coffee break | Coffee break |
 | 11:00am&nbsp;-&nbsp;11:45am | Kyriakos Vamvoudakis | [Trajectory-Informed versus Physics Informed Machine Learning](/seminars/kyriakos-seminar) |
 | 11:45am&nbsp;-&nbsp;12:30pm | Luke Bhan | [Neural Operators for Control of Nonlinear Delay Systems](/seminars/lukebhan-seminar) |
 | 12:30pm&nbsp;-&nbsp;2:00pm | Lunch Break | Lunch Break |
 | 2:00pm&nbsp;-&nbsp;2:45pm | Steve Brunton | [Incorporating Physics into Machine Learning](/seminars/steve-seminar) |
-| 2:45pm&nbsp;-&nbsp;3:30pm | Ján Drgoňa | [Differentiable Predictive Control for PDEs](/seminars/jan-seminar) |
+| 2:45pm&nbsp;-&nbsp;3:30pm | Ján Drgoňa | [Learning to Control PDEs with Differentiable Predictive Control and Neural Operators](/seminars/jan-seminar) |
 | 3:30pm&nbsp;-&nbsp;4:15pm | Alex Scheinker | [Adaptive Generative Diffusion Models](/seminars/alex-seminar) |
 | 4:15pm&nbsp;-&nbsp;4:30pm | Organizers | Closing remarks |
 
