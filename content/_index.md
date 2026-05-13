@@ -20,7 +20,7 @@ Traditional PDE modeling, control, and optimization methods—rooted in analytic
         ["Ján Drgoňa","John Hopkins University"],
         ["Alex Scheinker","Los Alamaos National Laboratory"],
         ["Thomas Beckers","Vanderbilt University"],
-        ["Yuanyuan Shi","University of California, San Diego"]
+        ["Luke Bhan","University of California, San Diego"]
     ],
     urls = [
         "https://flyingv.ucsd.edu",
@@ -29,7 +29,7 @@ Traditional PDE modeling, control, and optimization methods—rooted in analytic
         "https://drgona.github.io://drgona.github.io/",
         "https://alexscheinker.github.io/",
 	"https://www.tbeckers.com/",
-	"https://yyshi.eng.ucsd.edu/",
+	"https://lukebhan.com/",
     ],
     images = [
         "speakers/krstic.jpg",
@@ -38,7 +38,7 @@ Traditional PDE modeling, control, and optimization methods—rooted in analytic
         "speakers/jan.jpg",
         "speakers/alex.png",
 				"speakers/beckers.jpg",
-				"speakers/yuanyuan.jpg"
+				"organizers/luke.jpeg"
     ],
     narrow = true) }}
 
@@ -90,14 +90,12 @@ Traditional PDE modeling, control, and optimization methods—rooted in analytic
 | 9:30am&nbsp;-&nbsp;10:15am | Thomas Beckers | [Energy-based learning of PDEs with Uncertainty Quantification](/seminars/beckers-seminar) |
 | 10:15am&nbsp;-&nbsp;10:45am | Coffee break | Coffee break |
 | 10:45am&nbsp;-&nbsp;11:30am | Kyriakos Vamvoudakis | [Trajectory-Informed versus Physics Informed Machine Learning](/seminars/kyriakos-seminar) |
-| 11:30am&nbsp;-&nbsp;12:15pm | Yuanyuan Shi | [Neural Operators for Control of Nonlinear Delay Systems](/seminars/yuanyuan-seminar) |
+| 11:30am&nbsp;-&nbsp;12:15pm | Luke Bhan | [Neural Operators for Control of Nonlinear Delay Systems](/seminars/lukebhan-seminar) |
 | 12:15pm&nbsp;-&nbsp;1:30pm | Lunch Break | Lunch Break |
 | 1:30pm&nbsp;-&nbsp;2:15pm | Steve Brunton | [Incorporating Physics into Machine Learning](/seminars/steve-seminar) |
 | 2:15pm&nbsp;-&nbsp;3:00pm | Ján Drgoňa | [Differentiable Predictive Control for PDEs](/seminars/jan-seminar) |
 | 3:00pm&nbsp;-&nbsp;3:45pm | Alex Scheinker | [Adaptive Generative Diffusion Models](/seminars/alex-seminar) |
-| 3:45pm&nbsp;-&nbsp;4:15pm | Coffee break | Coffee break |
-| 4:15pm&nbsp;-&nbsp;4:45pm | Luke Bhan | [Tutorial coding session](https://github.com/lukebhan/PDEControlGym) |
-| 4:45pm&nbsp;-&nbsp;5:00pm | Organizers | Closing remarks |
+| 3:45pm&nbsp;-&nbsp;4:00pm | Organizers | Closing remarks |
 
 
 
