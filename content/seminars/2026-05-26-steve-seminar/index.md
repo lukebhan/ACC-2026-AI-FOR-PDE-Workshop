@@ -4,7 +4,7 @@ title = "Incorporating Physics into Machine Learning"
 author = "Steve Brunton"
 institution = "University of Washington"
 author_url = "https://www.eigensteve.com/"
-time = "1:30 PM"
+time = "2:15 PM"
 buttons = [{name = "Slides", url=""}]
 highlight = true
 image = "speakers/steve.jpeg"
@@ -12,7 +12,7 @@ image = "speakers/steve.jpeg"
 
 ### Abstract
 
-To be announced. 
+This work will discuss several key challenges and opportunities in the use of machine learning for nonlinear system identification.  In particular, I will describe how machine learning may be used to develop accurate and efficient nonlinear dynamical systems models for complex natural and engineered systems.  I will emphasize the need for interpretable and generalizable data-driven models, such as the sparse identification of nonlinear dynamics (SINDy) algorithm, which identifies a minimal dynamical system model that balances model complexity with accuracy, avoiding overfitting.  I will also introduce several key benchmark problems in dynamical systems and fluid dynamics that provide a diversity of metrics to assess modern system identification techniques.  Because fluid dynamics is central to transportation, health, and defense systems, we will emphasize the importance of embedding known physics into machine learning algorithms. 
 
 ### Biography
 

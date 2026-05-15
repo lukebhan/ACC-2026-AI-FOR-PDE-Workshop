@@ -4,7 +4,7 @@ title = "Trajectory-Informed versus Physics Informed Machine Learning"
 author = "Kyriakos Vamvoudakis"
 institution = "Georgia Institute of Technology"
 author_url = "https://kyriakos.ae.gatech.edu/"
-time = "10:45 AM"
+time = "11:15 AM"
 buttons = [{name = "Slides", url=""}]
 highlight = true
 image = "speakers/kyriakos.jpg"

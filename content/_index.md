@@ -2,6 +2,10 @@
 title = "PDE-AI Workshop"
 +++
 
+<p style="font-size: 1.4rem; color: #c45854; margin-bottom: 1rem;">
+<strong>Location:</strong> Churchill C2
+</p>
+
 Traditional PDE modeling, control, and optimization methods—rooted in analytical models and numerical solvers—have long provided rigorous guarantees but face challenges of strong modeling assumptions, scalability, and data integration. The rapid rise of artificial intelligence (AI) is transforming this landscape. Data-driven approaches are now able to identify governing PDEs directly from data, construct physics-informed reduced-order models, and design controllers and observers with tractable computation while preserving closed-loop guarantees. Together, they are transforming control of complex, physics-based systems.
 
 **This workshop will present the latest advances in AI for modeling, control, and optimization of PDEs, as well as PDEs arising in nonlinear control problems such as optimal control and delayed systems.** The program features a series of invited talks by invited speakers from both academia and national laboratories spanning control theory, machine learning, and different application domains. Together, these talks will cover new algorithmic frameworks, theoretical developments, and application-driven studies—ranging from soft robotics and fluid mechanics to charged-particle beam control and delayed dynamical systems providing attendees with a state-of-the-art overview of the development in machine learning for PDEs. 
@@ -85,17 +89,18 @@ Traditional PDE modeling, control, and optimization methods—rooted in analytic
 
 | Time | Speaker | Event |
 | ---- | ------- | ----- |
-| 8:45am&nbsp;-&nbsp;9:00am | Organizers | Welcoming remarks|
-| 9:00am&nbsp;-&nbsp;9:45am | Miroslav Krstić | [Adaptive and Neural Operator Control of Nonlinear Volterra Hyperbolic PDEs](/seminars/krstic-seminar) |
-| 9:45am&nbsp;-&nbsp;10:30am | Thomas Beckers | [Energy-based learning of PDEs with Uncertainty Quantification](/seminars/beckers-seminar) |
-| 10:30am&nbsp;-&nbsp;11:00am | Coffee break | Coffee break |
-| 11:00am&nbsp;-&nbsp;11:45am | Kyriakos Vamvoudakis | [Trajectory-Informed versus Physics Informed Machine Learning](/seminars/kyriakos-seminar) |
-| 11:45am&nbsp;-&nbsp;12:30pm | Luke Bhan | [Neural Operators for Control of Nonlinear Delay Systems](/seminars/lukebhan-seminar) |
-| 12:30pm&nbsp;-&nbsp;2:00pm | Lunch Break | Lunch Break |
-| 2:00pm&nbsp;-&nbsp;2:45pm | Steve Brunton | [Incorporating Physics into Machine Learning](/seminars/steve-seminar) |
-| 2:45pm&nbsp;-&nbsp;3:30pm | Ján Drgoňa | [Learning to Control PDEs with Differentiable Predictive Control and Neural Operators](/seminars/jan-seminar) |
-| 3:30pm&nbsp;-&nbsp;4:15pm | Alex Scheinker | [Adaptive Generative Diffusion Models](/seminars/alex-seminar) |
-| 4:15pm&nbsp;-&nbsp;4:30pm | Organizers | Closing remarks |
+| 9:00am&nbsp;-&nbsp;9:15am | Organizers | Welcoming remarks|
+| 9:15am&nbsp;-&nbsp;10:00am | Miroslav Krstić | [Adaptive and Neural Operator Control of Nonlinear Volterra Hyperbolic PDEs](/seminars/krstic-seminar) |
+| 10:00am&nbsp;-&nbsp;10:30am | Coffee break | Coffee break |
+| 10:30am&nbsp;-&nbsp;11:15am | Thomas Beckers | [Energy-based learning of PDEs with Uncertainty Quantification](/seminars/beckers-seminar) |
+| 11:15am&nbsp;-&nbsp;12:00pm | Kyriakos Vamvoudakis | [Trajectory-Informed versus Physics Informed Machine Learning](/seminars/kyriakos-seminar) |
+| 12:00pm&nbsp;-&nbsp;1:30pm | Lunch Break | Lunch Break |
+| 1:30pm&nbsp;-&nbsp;2:15pm | Luke Bhan | [Neural Operators for Control of Nonlinear Delay Systems](/seminars/lukebhan-seminar) |
+| 2:15pm&nbsp;-&nbsp;3:00pm | Steve Brunton | [Incorporating Physics into Machine Learning](/seminars/steve-seminar) |
+| 3:00pm&nbsp;-&nbsp;3:30pm | Coffee break | Coffee break |
+| 3:30pm&nbsp;-&nbsp;4:15pm | Ján Drgoňa | [Learning to Control PDEs with Differentiable Predictive Control and Neural Operators](/seminars/jan-seminar) |
+| 4:15pm&nbsp;-&nbsp;5:00pm | Alex Scheinker | [Adaptive Generative Diffusion Models for Charged Particle Beams Governed by Vlasov-Maxwell PDEs](/seminars/alex-seminar) |
+| 5:00pm&nbsp;-&nbsp;5:15pm | Organizers | Closing remarks |
 
 
 

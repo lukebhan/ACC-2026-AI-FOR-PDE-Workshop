@@ -4,7 +4,7 @@ title = "Neural Operators for Control of Nonlinear Delay Systems"
 author = "Luke Bhan"
 institution = "University of California, San Diego"
 author_url = "https://lukebhan.com/"
-time = "11:30 AM"
+time = "1:30 PM"
 buttons = [{name = "Slides", url=""}]
 highlight = true
 image = "organizers/lukePortrait.jpeg"
@@ -12,7 +12,7 @@ image = "organizers/lukePortrait.jpeg"
 
 ### Abstract
 
-To be announced. 
+Delays are unavoidable in modern autonomy and cyber-physical systems: computation, communication, sensing, and actuation all introduce latency that can destabilize otherwise well-designed controllers. Predictor feedback offers a powerful remedy by applying a nominal controller to a prediction of the future state, but in nonlinear systems these predictors are often implicit ODEs whose real-time solution becomes the bottleneck. This talk presents a neural-operator approach to predictor feedback: learn the infinite-dimensional prediction map offline, deploy it online as a fast surrogate, and retain rigorous closed-loop guarantees. I will show how this idea yields stability-certified approximate predictors for nonlinear delay systems, then extend the framework to unknown delays, time-varying input and measurement delays, and sampled state measurements. Across robotic and biological examples, the result is a blueprint for using machine learning inside control loops without giving up stability certificates.
 
 ### Biography
 

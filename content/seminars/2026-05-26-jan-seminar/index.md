@@ -4,7 +4,7 @@ title = "Learning to Control PDEs with Differentiable Predictive Control and Neu
 author = "Ján Drgoňa"
 institution = "Johns Hopkins University"
 author_url = "https://drgona.github.io/"
-time = "2:15 PM"
+time = "3:30 PM"
 buttons = [{name = "Slides", url=""}]
 highlight = true
 image = "speakers/jan.jpg"

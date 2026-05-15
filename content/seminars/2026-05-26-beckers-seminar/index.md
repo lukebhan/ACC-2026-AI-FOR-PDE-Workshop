@@ -4,7 +4,7 @@ title = "Energy-based learning of PDEs with Uncertainty Quantification"
 author = "Thomas Beckers"
 institution = "Vanderbilt University"
 author_url = "https://www.tbeckers.com/"
-time = "9:30 AM"
+time = "10:30 AM"
 buttons = [{name = "Slides", url=""}]
 highlight = true
 image = "speakers/beckers.jpg"
@@ -12,7 +12,9 @@ image = "speakers/beckers.jpg"
 
 ### Abstract
 
-To be announced. 
+ Reliable models of dynamical systems are essential for safe control, optimization, and failure detection. However, deriving first-principles models for complex systems is often challenging and computationally expensive. While machine learning offers flexible alternatives, learned models frequently lack physical consistency and reliability, limiting their applicability in safety-critical settings.
+
+In this talk, I will present our recent work on data-driven port-Hamiltonian systems (PHS) for physically consistent modeling and control of PDE systems. Our approach learns unknown Hamiltonians directly from data while preserving the underlying physical structure by design, enabling compositional modeling and uncertainty-aware predictions. I will demonstrate how these models can be used for safe control and, in particular, how generative models can be employed to rapidly solve the PDEs models inside the optimal control loop. This substantially accelerates the computation of optimal control inputs while maintaining robustness and physical consistency.
 
 ### Biography
 

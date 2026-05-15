@@ -4,7 +4,7 @@ title = "Adaptive and Neural Operator Control of Nonlinear Volterra Hyperbolic P
 author = "Miroslav Krstić"
 institution = "University of California, San Diego"
 author_url = "https://flyingv.ucsd.edu/"
-time = "8:45 AM"
+time = "9:15 AM"
 buttons = [{name = "Slides", url=""}]
 highlight = true
 image = "speakers/krstic.jpg"

@@ -1,10 +1,10 @@
 +++
-title = "Adaptive Generative Diffusion Models"
+title = "Adaptive Generative Diffusion Models for Charged Particle Beams Governed by Vlasov-Maxwell PDEs"
 [extra]
 author = "Alexander Scheinker"
 institution = "Los Alamos National Laboratory"
 author_url = "https://alexscheinker.github.io/"
-time = "3:00 PM"
+time = "4:15 PM"
 buttons = [{name = "Slides", url=""}]
 highlight = true
 image = "speakers/alex.png"
@@ -12,7 +12,7 @@ image = "speakers/alex.png"
 
 ### Abstract
 
-To be announced. 
+Diffusion-based generative models are the state of the art for representing complex high-dimensional objects, from 3D protein structures to megapixel images to 6D phase-space densities of charged particle beams. For beams governed by the Vlasov-Maxwell equations, the full 6D phase-space distribution evolves under self-consistent nonlinear dynamics, while in practice only limited low-dimensional measurements — often a single 2D projection — are available. This talk explores how generative diffusion models can be combined with adaptive feedback to reconstruct and track such time-varying distributions from partial observations. 
 
 ### Biography
 
